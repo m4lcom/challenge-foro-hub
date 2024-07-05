@@ -14,7 +14,7 @@ Búsqueda avanzada de temas y respuestas.
 Perfil de usuario con información personal y actividad.
 Tecnologías Utilizadas
 Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express.js
+Backend: JAVA
 Base de Datos: MongoDB
 Autenticación: JWT (JSON Web Tokens)
 Despliegue: Heroku / Vercel
